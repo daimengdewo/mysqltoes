@@ -11,7 +11,6 @@ mysql_config = {
     'database': 'erp'
 }
 
-
 # Elasticsearch配置
 es_host = '127.0.0.1'
 es_port = '9200'
