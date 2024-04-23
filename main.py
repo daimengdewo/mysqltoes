@@ -27,7 +27,6 @@ def fetch_mysql_table_fields(mysql_config):
     # 获取MySQL表字段信息,指定需要转换得表名
     cursor.execute(f"DESCRIBE {'`housesalegj`'}")
     fields = cursor.fetchall()
-
     cursor.close()
     connection.close()
 
