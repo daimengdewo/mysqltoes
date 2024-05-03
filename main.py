@@ -4,11 +4,11 @@ import json
 
 # MySQL连接配置
 mysql_config = {
-    'host': '10.10.101.2',
-    'port': '3386',
-    'user': 'erp',
-    'password': 'lzc-db-erp-mysql-password',
-    'database': 'erp'
+    'host': 'xx.xx.xxx.xx',
+    'port': 'xx',
+    'user': 'xx',
+    'password': 'xxxxxx',
+    'database': 'xxxxxxx'
 }
 
 # Elasticsearch配置
